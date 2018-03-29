@@ -14,9 +14,13 @@ Tools:
 
 Disable Access Keys after X days; https://github.com/te-papa/aws-key-disabler
 
-Secrets Management; https://github.com/awslabs/git-secrets
+Secrets Management; 
+https://github.com/awslabs/git-secrets
+https://github.com/hashicorp/vault
 
-Least Privilege: https://github.com/Netflix/repokid
+Least Privilege: 
+https://github.com/Netflix/repokid
+https://github.com/duo-labs/cloudtracker
 
  
  
@@ -29,6 +33,15 @@ Prowler: https://github.com/toniblyx/prowler
 Policy changes & Insecure config: https://github.com/Netflix/security_monkey
 
 Policy & Encryption; https://github.com/capitalone/cloud-custodian
+
+Compliance as code: https://github.com/awslabs/aws-config-engine-for-compliance-as-code
+
+
+Infrastructure-as-Code Assessment:
+
+Cloudformation code assessment: https://github.com/stelligent/cfn_nag
+
+Terraform code assessment: https://github.com/cesar-rodriguez/terrascan
  
  
 Training
